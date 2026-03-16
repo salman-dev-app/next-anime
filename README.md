@@ -1,17 +1,18 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,100:4ECDC4&height=200&text=Next%20Anime&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Free%20Anime%20Streaming%20Platform&descAlignY=55&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,100:4ECDC4&height=200&text=Next%20Anime&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Free%20Anime%20Streaming%20Website%20Built%20with%20Next.js%20&%20Consumet%20API&descAlignY=55&descSize=15"/>
 </div>
 
 <p align="center">
   <a href="https://github.com/salman-dev-app/next-anime">
-    <img src="https://readme-typing-svg.demolab.com?font=Tagesschrift&size=25&duration=2000&pause=800&color=F7F7F7&background=FF001400&center=true&vCenter=true&multiline=true&width=500&height=80&lines=Stream+Anime+for+Free;Built+with+Next.js+&+TypeScript;Powered+by+Consumet+API" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Tagesschrift&size=25&duration=2000&pause=800&color=F7F7F7&background=FF001400&center=true&vCenter=true&multiline=true&width=500&height=80&lines=Watch+Anime+for+Free;Built+with+Next.js+%26+Consumet" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Framework-Next.js-FF6B6B?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/NextJS-Anime_Streaming-FF6B6B-FF6B6B?style=for-the-badge&logo=codesandbox&logoColor=white" />
   <img src="https://img.shields.io/github/last-commit/salman-dev-app/next-anime?style=for-the-badge&color=00D9FF&label=LAST%20UPDATED&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Type-Streaming-4ECDC4?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/github/stars/salman-dev-app/next-anime?style=for-the-badge&color=4ECDC4&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/github/forks/salman-dev-app/next-anime?style=for-the-badge&color=FF6B6B&logo=github&logoColor=white" />
 </p>
 
 ---
@@ -19,7 +20,7 @@
 <div align="center">
   <h3>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Star" width="25" height="25" style="vertical-align: middle;" />
-    Next Anime is a free, open-source anime streaming website built with Next.js, TypeScript, and Tailwind CSS using the Consumet API for multi-source anime content.
+    Next Anime — Free Anime Streaming Website Built with Next.js & Consumet API
   </h3>
 </div>
 
@@ -29,85 +30,77 @@
 
 <p align="center">
   <a href="https://github.com/salman-dev-app/next-anime">
-    <img src="https://img.shields.io/badge/View-Repository-FF6B6B?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Source_Code-View_on_GitHub-FF6B6B?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://github.com/salman-dev-app/next-anime/issues">
-    <img src="https://img.shields.io/badge/Report-Issue-4ECDC4?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="mailto:mdsalmanhelp0@gmail.com">
+    <img src="https://img.shields.io/badge/Contact-Send_Email-4ECDC4?style=for-the-badge&logo=minutemailer&logoColor=white" />
   </a>
-  <a href="mailto:mdsalmanhelp@gmail.com">
-    <img src="https://img.shields.io/badge/Contact-Developer-00D9FF?style=for-the-badge&logo=minutemailer&logoColor=white" />
-  </a>
-</p>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="30" height="30" style="vertical-align: middle;" /> Core Features
-
-<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="18" height="18" style="vertical-align: middle;" /> <strong>Anime streaming with Sub and Dub support</strong></p>
-<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="18" height="18" style="vertical-align: middle;" /> <strong>Consumet API integration for multi-source content</strong></p>
-<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="18" height="18" style="vertical-align: middle;" /> <strong>User authentication with Next-Auth</strong></p>
-<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="18" height="18" style="vertical-align: middle;" /> <strong>Advanced search with suggestions</strong></p>
-<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="18" height="18" style="vertical-align: middle;" /> <strong>React Query for optimized data fetching</strong></p>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Light Bulb" width="30" height="30" style="vertical-align: middle;" /> Why This Project?
-
-**<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Americas.png" alt="🌐" width="20" height="20" style="vertical-align: middle;" /> Multi-Source**  
-Consumet API provides anime from multiple sources for reliability.
-
-**<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="⚡" width="20" height="20" style="vertical-align: middle;" /> Modern Stack**  
-Built with Next.js 13+, TypeScript, and Tailwind for top performance.
-
-**<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Unlocked.png" alt="🔓" width="20" height="20" style="vertical-align: middle;" /> Open Source**  
-Fully open-source — fork, customize, and deploy as your own.
-
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" alt="Wrench" width="30" height="30" style="vertical-align: middle;" /> Technical Ecosystem
-
-<div align="center">
-
-### Full Stack Development
-<img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,mongodb,prisma&theme=dark" />
-
-</div>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Analytics" width="30" height="30" style="vertical-align: middle;" /> Repository Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=salman-dev-app&repo=next-anime&theme=react&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4" alt="Repo Stats" />
-</div>
-
----
-
-<div align="center">
-  <h2>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="35" height="35" style="vertical-align: middle;" />
-    Developed by Md Salman Biswas
-  </h2>
-</div>
-
-<p align="center">
-  <a href="mailto:mdsalmanhelp@gmail.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=63A4FF&center=true&vCenter=true&width=500&lines=Senior+Software+Engineer;Available+for+New+Opportunities;Let's+Build+Something+Amazing!" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/salman-dev-app">
-    <img src="https://img.shields.io/badge/View-My_Profile-FF6B6B?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:mdsalmanhelp@gmail.com">
-    <img src="https://img.shields.io/badge/Hire_Me-Send_Email-4ECDC4?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://wa.me/8801840933137">
-    <img src="https://img.shields.io/badge/WhatsApp-Direct_Chat-00D9FF?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-View_More_Projects-00D9FF?style=for-the-badge&logo=codesandbox&logoColor=white" />
   </a>
 </p>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Lightbulb" width="30" height="30" style="vertical-align: middle;" /> About The Project
+
+<p>
+Free Anime Streaming Website Built with Next.js & Consumet API. This project is built with performance, scalability, and clean code in mind, following enterprise-level standards.
+</p>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" alt="Check" width="30" height="30" style="vertical-align: middle;" /> Key Features
+
+<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="18" height="18" style="vertical-align: middle;" /> <strong>Anime Streaming</strong> — Watch anime by episode with iframe and custom player support</p>
+<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="18" height="18" style="vertical-align: middle;" /> <strong>Consumet API</strong> — Powered by the Consumet API for extensive anime source coverage</p>
+<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="18" height="18" style="vertical-align: middle;" /> <strong>Authentication</strong> — Secure user accounts with Next-Auth integration</p>
+<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="18" height="18" style="vertical-align: middle;" /> <strong>MongoDB + Prisma</strong> — Robust database layer for user data and watchlists</p>
+<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="18" height="18" style="vertical-align: middle;" /> <strong>TypeScript</strong> — Fully typed codebase for reliability and maintainability</p>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" alt="Wrench" width="30" height="30" style="vertical-align: middle;" /> Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,mongodb,prisma&theme=dark" />
+
+</div>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" style="vertical-align: middle;" /> Getting Started
+
+### Prerequisites
+
+Make sure you have the required tools installed before running this project.
+
+### Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/salman-dev-app/next-anime.git
+cd next-anime
+
+# Install dependencies
+npm install
+
+# Configure environment variables
+cp .env.example .env
+# Add your MongoDB URI, NextAuth secret, and API URLs
+
+# Run development server
+npm run dev
+```
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Analytics" width="30" height="30" style="vertical-align: middle;" /> Repository Stats
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=salman-dev-app&theme=react-dark&area=true&hide_border=true&bg_color=0D1117&color=FF6B6B&line=4ECDC4" alt="Activity Graph" width="100%" >
+</div>
 
 ---
 
@@ -120,18 +113,37 @@ Fully open-source — fork, customize, and deploy as your own.
 </div>
 
 <p align="center">
-  This project is licensed under the MIT License — feel free to use and contribute.
+  This project is licensed under the MIT License — feel free to use, modify, and distribute.
 </p>
+
+---
+
+<div align="center">
+  <h2>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party" width="30" height="30" style="vertical-align: middle;" />
+    Let's Connect & Collaborate
+  </h2>
+</div>
+
+<p align="center">
+  <a href="https://github.com/salman-dev-app">
+    <img src="https://img.shields.io/badge/VISIT-MY_GITHUB_PROFILE-FF6B6B?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Google+Sans&weight=600&size=22&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&lines=Made+with+Passion+by+Md+Salman+Biswas;Thanks+for+checking+this+out!;Star+%E2%AD%90+if+you+find+it+useful!" alt="Typing SVG" />
+</div>
+
+<br/>
 
 ---
 
 <footer align="center">
   <p>© 2024-2026 Md Salman Biswas · All rights reserved</p>
-  <p>
-    <a href="https://github.com/salman-dev-app">
-      <img src="https://img.shields.io/badge/Profile_Status-Active-4ECDC4?style=flat" alt="Status" />
-    </a>
-  </p>
+  <a href="https://github.com/salman-dev-app">
+    <img src="https://img.shields.io/badge/Profile_Status-Active-4ECDC4?style=flat" alt="Status" />
+  </a>
   <p>Engineered by <a href="https://github.com/salman-dev-app">Md Salman Biswas</a></p>
 </footer>
 
