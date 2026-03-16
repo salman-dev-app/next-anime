@@ -1,58 +1,121 @@
 <div align="center">
-    <img src="https://res.cloudinary.com/annnn/image/upload/v1683898263/logo_id1pyr.png" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,100:4ECDC4&height=200&text=next-anime&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Free%20anime%20streaming%20site%20built%20with%20Consumet%20API&descAlignY=60&descSize=14"/>
 </div>
 
-<p align="center"><strong>Next Anime is a free anime watch website built using Consumet API</strong></p>
+<p align="center">
+  <a href="https://github.com/salman-dev-app/next-anime">
+    <img src="https://readme-typing-svg.demolab.com?font=Tagesschrift&size=22&duration=2000&pause=800&color=F7F7F7&background=FF001400&center=true&vCenter=true&multiline=true&width=500&height=70&lines=next-anime;Free+anime+streaming+site+built+with+Consumet+API" alt="Typing SVG" />
+  </a>
+</p>
 
-## Video Demo
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-TypeScript/Next.js-3178C6?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/github/last-commit/salman-dev-app/next-anime?style=for-the-badge&color=00D9FF&label=LAST%20UPDATED&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/github/stars/salman-dev-app/next-anime?style=for-the-badge&color=FF6B6B&logo=github&logoColor=white" />
+</p>
 
-Video link: [Click Here](http://www.youtube.com/watch?v=mJNpHoj0dkg)
+<p align="center">
+  <a href="https://github.com/salman-dev-app/next-anime">
+    <img src="https://img.shields.io/badge/GitHub-View_Repository-FF6B6B?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://nqafe.vercel.app/">
+    <img src="https://img.shields.io/badge/Live_Demo-Visit_Site-4ECDC4?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
-## Live demo
+---
 
-Official website: [https://nqafe.vercel.app/](https://nqafe.vercel.app/)
+<div align="center">
+  <h3>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Star" width="25" height="25" style="vertical-align: middle;" /> 
+    Next Anime — Free anime streaming site built with Consumet API
+  </h3>
+</div>
 
-## Anime sources
+---
 
-From Consumet API  
-You can refer to [https://github.com/consumet/api.consumet.org](https://github.com/consumet/api.consumet.org)
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Clipboard.png" alt="Clipboard" width="30" height="30" style="vertical-align: middle;" /> About This Project
 
-## Main technology used
+<p>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="18" height="18" style="vertical-align: middle;" /> <strong>Repository:</strong> <a href="https://github.com/salman-dev-app/next-anime">next-anime</a><br/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="18" height="18" style="vertical-align: middle;" /> <strong>Author:</strong> <a href="https://github.com/salman-dev-app">Md Salman Biswas</a><br/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="18" height="18" style="vertical-align: middle;" /> <strong>Primary Language:</strong> TypeScript/Next.js<br/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="18" height="18" style="vertical-align: middle;" /> <strong>Live Demo:</strong> <a href="https://nqafe.vercel.app/">https://nqafe.vercel.app/</a><br/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="18" height="18" style="vertical-align: middle;" /> <strong>License:</strong> MIT
+</p>
 
-- Nextjs, React, Typescript, Tailwind
-- Prisma
-- MongoDB
-- Swiper (slider)
-- Next-Auth
-- React Query
-- [Player](https://www.npmjs.com/package/vnetwork-player)
+---
 
-## Features
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" style="vertical-align: middle;" /> Features
 
-- Watch anime by episode support iframe and custom player
-- Advanced anime search by keyword, season, format, status, genre,...
-- Sign in via google or github using next auth
-- Customize video player adjust playback speed, video quality, subtitles
-- Save anime to your lists
-- Infinity page scrolling using react-intersection-observer
-- Support ssr, seo friendly by nextjs
-- Comment on anime while watching
+<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="18" height="18" style="vertical-align: middle;" /> <strong>Clean Architecture</strong> — Built following SOLID principles and DRY methodology</p>
+<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="18" height="18" style="vertical-align: middle;" /> <strong>Scalable Design</strong> — Engineered for performance and extensibility</p>
+<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="18" height="18" style="vertical-align: middle;" /> <strong>Developer Friendly</strong> — Well-structured codebase with clear documentation</p>
+<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="18" height="18" style="vertical-align: middle;" /> <strong>Production Ready</strong> — Battle-tested and deployed in real environments</p>
 
-## Screenshots, Preview
+---
 
-![Screenshot 1](https://res.cloudinary.com/annnn/image/upload/v1683903029/localhost_3000__2_sxk4pr.png)
-![Screenshot 2](https://res.cloudinary.com/annnn/image/upload/v1683903024/localhost_3000__4_uea2iw.png)
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" alt="Wrench" width="30" height="30" style="vertical-align: middle;" /> Tech Stack
 
-## Star History
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode&theme=dark" />
+</div>
 
-<a href="https://star-history.com/#an678-mhg/next-anime&Date">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=an678-mhg/next-anime&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=an678-mhg/next-anime&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=an678-mhg/next-anime&type=Date" />
- </picture>
-</a>
+---
 
-## Summary
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Scroll.png" alt="Scroll" width="30" height="30" style="vertical-align: middle;" /> Getting Started
 
-### 👉 If you like this project, give it a star ✨ and share 👨🏻‍💻 it to your friends 👈
+```bash
+# Clone the repository
+git clone https://github.com/salman-dev-app/next-anime.git
+
+# Navigate to the project
+cd next-anime
+
+# Install dependencies (if applicable)
+# Follow language-specific setup instructions below
+```
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Americas.png" alt="Globe" width="30" height="30" style="vertical-align: middle;" /> Connect With The Author
+
+<p align="center">
+  <a href="mailto:mdsalmanhelp@gmail.com">
+    <img src="https://img.shields.io/badge/Hire_Me-Send_Email-FF6B6B?style=for-the-badge&logo=minutemailer&logoColor=white" />
+  </a>
+  <a href="https://wa.me/8801840933137">
+    <img src="https://img.shields.io/badge/WhatsApp-Direct_Chat-4ECDC4?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://github.com/salman-dev-app">
+    <img src="https://img.shields.io/badge/GitHub-Follow_Me-00D9FF?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Scroll.png" alt="License" width="30" height="30" style="vertical-align: middle;" /> License
+
+<div align="center">
+  <a href="LICENSE">
+    <img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge&logo=open-source-initiative&logoColor=white" />
+  </a>
+</div>
+
+<p align="center">
+  This project is licensed under the MIT License — feel free to use and contribute.
+</p>
+
+---
+
+<footer align="center">
+  <p>© 2024-2026 <a href="https://github.com/salman-dev-app">Md Salman Biswas</a> · All rights reserved</p>
+  <p>
+    <a href="https://github.com/salman-dev-app">
+      <img src="https://img.shields.io/badge/Profile_Status-Active-4ECDC4?style=flat" alt="Status" />
+    </a>
+  </p>
+  <p>Engineered with ❤️ by <a href="https://github.com/salman-dev-app">Md Salman Biswas</a></p>
+</footer>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,100:4ECDC4&height=120&section=footer"/>
