@@ -1,130 +1,145 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,100:4ECDC4&height=200&text=next-anime&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Next%20Anime%20is%20a%20free%20anime%20watch%20website%20built%20using%20Consume&descAlignY=58&descSize=14"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,100:4ECDC4&height=200&text=next%20anime&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Next%20Anime%20—%20A%20free%20anime%20streaming%20website%20&descAlignY=58&descSize=13"/>
 </div>
 
 <p align="center">
   <a href="https://github.com/salman-dev-app/next-anime">
-    <img src="https://readme-typing-svg.demolab.com?font=Tagesschrift&size=22&duration=2000&pause=800&color=F7F7F7&background=FF001400&center=true&vCenter=true&multiline=true&width=500&height=80&lines=Next+Anime+is+a+free+anime+watch+website;Built+by+Md+Salman+Biswas;Clean+Code+%7C+Best+Practices" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Tagesschrift&size=22&duration=2000&pause=800&color=F7F7F7&background=FF001400&center=true&vCenter=true&multiline=true&width=500&height=80&lines=next-anime...;Built+by+Md+Salman+Biswas" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-▲_Project-FF6B6B?style=for-the-badge&logo=codesandbox&logoColor=white" />
   <img src="https://img.shields.io/github/last-commit/salman-dev-app/next-anime?style=for-the-badge&color=00D9FF&label=LAST%20UPDATED&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/github/stars/salman-dev-app/next-anime?style=for-the-badge&color=4ECDC4&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/github/forks/salman-dev-app/next-anime?style=for-the-badge&color=FF6B6B&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Author-Md_Salman_Biswas-4ECDC4?style=for-the-badge&logo=github&logoColor=white" />
 </p>
+
+---
+
+<div align="center">
+  <h3>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Star" width="25" height="25" style="vertical-align: middle;" />
+    Next Anime — A free anime streaming website built using the Consumet API
+  </h3>
+</div>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pushpin.png" alt="Pushpin" width="30" height="30" style="vertical-align: middle;" /> Overview
 
 <p align="center">
-  <a href="https://github.com/salman-dev-app/next-anime">
-    <img src="https://img.shields.io/badge/View_Repo-GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://nqafe.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-Visit_Site-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="mailto:mdsalmanhelp0@gmail.com">
-    <img src="https://img.shields.io/badge/Contact-Author-FF6B6B?style=for-the-badge&logo=minutemailer&logoColor=white" />
-  </a>
+  <strong>next-anime</strong> — Next Anime — A free anime streaming website built using the Consumet API
+  <br/>
+  Developed and maintained by <a href="https://github.com/salman-dev-app"><strong>Md Salman Biswas</strong></a> — Senior Software Engineer.
 </p>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Star" width="28" height="28" style="vertical-align: middle;" /> About This Project
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="30" height="30" style="vertical-align: middle;" /> Features & Highlights
 
-<div align="center">
-  <h3>Next Anime is a free anime watch website built using Consumet API</h3>
-</div>
-
-> **Next Anime** is a project developed and maintained by **Md Salman Biswas**, a Senior Software Engineer specializing in enterprise-grade, scalable solutions.
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="28" height="28" style="vertical-align: middle;" /> Features & Capabilities
-
-<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="18" height="18" style="vertical-align: middle;" /> <strong>RESTful API design with clean endpoints</strong></p>
-<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="18" height="18" style="vertical-align: middle;" /> <strong>Authentication and authorization support</strong></p>
-<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="18" height="18" style="vertical-align: middle;" /> <strong>Database integration with ORM</strong></p>
-<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="18" height="18" style="vertical-align: middle;" /> <strong>Request validation and error handling</strong></p>
-<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="18" height="18" style="vertical-align: middle;" /> <strong>Comprehensive API documentation</strong></p>
+<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="18" height="18" style="vertical-align: middle;" /> <strong>Clean Architecture</strong> — Structured and maintainable codebase following best practices</p>
+<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="18" height="18" style="vertical-align: middle;" /> <strong>High Performance</strong> — Optimized for speed and minimal resource consumption</p>
+<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="18" height="18" style="vertical-align: middle;" /> <strong>Scalable Design</strong> — Built to grow with enterprise-grade patterns</p>
+<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="18" height="18" style="vertical-align: middle;" /> <strong>Easy Setup</strong> — Simple installation and configuration process</p>
+<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="18" height="18" style="vertical-align: middle;" /> <strong>Open Source</strong> — Community contributions are welcome!</p>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" alt="Wrench" width="28" height="28" style="vertical-align: middle;" /> Tech Stack
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" alt="Wrench" width="30" height="30" style="vertical-align: middle;" /> Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,ts,css,js,nodejs,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind&theme=dark" />
 </div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="28" height="28" style="vertical-align: middle;" /> Getting Started
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" style="vertical-align: middle;" /> Getting Started
 
-### Prerequisites
-- Node.js 18+ / PHP 8+ / Python 3.9+
-
-### Setup & Run
 ```bash
-# Clone this repository
+# Clone the repository
 git clone https://github.com/salman-dev-app/next-anime.git
+
+# Navigate to project directory
 cd next-anime
 
-# Install dependencies
-npm install   # or: composer install / pip install -r requirements.txt
+# Install dependencies (if applicable)
+# Python
+pip install -r requirements.txt
 
-# Configure environment
-cp .env.example .env
+# Node.js
+npm install
 
-# Run development server
-npm run dev   # or: php artisan serve / python manage.py runserver
+# Run the project
+# Follow project-specific instructions below
 ```
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Analytics" width="28" height="28" style="vertical-align: middle;" /> Repository Stats
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Analytics" width="30" height="30" style="vertical-align: middle;" /> Repository Stats
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=salman-dev-app&theme=react-dark&area=true&hide_border=true&bg_color=0D1117&color=FF6B6B&line=4ECDC4&custom_title=next-anime+Activity" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=salman-dev-app&theme=react-dark&area=true&hide_border=true&bg_color=0D1117&color=FF6B6B&line=4ECDC4" alt="Activity Graph" width="100%">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=salman-dev-app&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=ffffff" alt="GitHub Stats" width="80%">
 </div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" alt="Contact" width="28" height="28" style="vertical-align: middle;" /> Connect With the Author
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Americas.png" alt="Globe" width="30" height="30" style="vertical-align: middle;" /> Connect With The Author
 
 <p align="center">
   <a href="mailto:mdsalmanhelp0@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Hire_Me-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Hire_Me-Send_Email-FF6B6B?style=for-the-badge&logo=minutemailer&logoColor=white" />
   </a>
   <a href="https://wa.me/8801840933137">
     <img src="https://img.shields.io/badge/WhatsApp-Direct_Chat-4ECDC4?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-  <a href="https://github.com/salman-dev-app">
-    <img src="https://img.shields.io/badge/GitHub-Follow_Me-24292e?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
   <a href="https://t.me/Otakuosenpai">
-    <img src="https://img.shields.io/badge/Telegram-Connect-63A4FF?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Telegram-Quick_Connect-63A4FF?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Scroll.png" alt="Scroll" width="28" height="28" style="vertical-align: middle;" /> License
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Scroll.png" alt="Scroll" width="30" height="30" style="vertical-align: middle;" /> License
 
 <div align="center">
-  <a href="LICENSE">
-    <img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge&logo=open-source-initiative&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge&logo=open-source-initiative&logoColor=white" />
 </div>
 
 <p align="center">
-  This project is licensed under the MIT License — feel free to use, modify, and distribute.
+  This project is licensed under the MIT License — feel free to use, modify, and contribute.
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Google+Sans&weight=600&size=20&pause=1000&color=FF6B6B&center=true&vCenter=true&width=435&lines=Made+with+❤️+by+Md+Salman+Biswas;Thanks+for+visiting!;Star+⭐+if+you+find+it+useful!" alt="Typing SVG" />
+  <h2>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party" width="30" height="30" style="vertical-align: middle;" />
+    Thank You for Visiting!
+  </h2>
+
+  <a href="https://github.com/salman-dev-app">
+    <img src="https://img.shields.io/badge/VISIT-MY_GITHUB_PROFILE-FF6B6B?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <br/><br/>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Google+Sans&weight=600&size=22&pause=1000&color=FF6B6B&center=true&vCenter=true&width=435&lines=Made+with+%E2%9D%A4%EF%B8%8F+by+Md+Salman+Biswas;Star+this+repo+if+you+like+it!;Let%27s+build+together!" alt="Typing SVG" />
 </div>
 
+---
+
 <footer align="center">
-  <p>© 2026–2026 <a href="https://github.com/salman-dev-app">Md Salman Biswas</a> · All rights reserved</p>
+  <p>© 2024-2026 Md Salman Biswas · All rights reserved</p>
+  <p>
+    <a href="https://github.com/salman-dev-app">
+      <img src="https://img.shields.io/badge/Profile_Status-Active-4ECDC4?style=flat" alt="Status" style="vertical-align: middle;">
+    </a>
+  </p>
+  <p>Engineered by <a href="https://github.com/salman-dev-app">Md Salman Biswas</a></p>
 </footer>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,100:4ECDC4&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,100:4ECDC4&height=120&section=footer"/>
